@@ -3,3 +3,4 @@ add one line in the file
 add second line in the file.
 add third line in the file.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
